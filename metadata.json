@@ -1,0 +1,5 @@
+{
+  "name": "Quotex Live Chart",
+  "description": "A live charting application for Quotex using WebSockets and Lightweight Charts.",
+  "requestFramePermissions": []
+}
